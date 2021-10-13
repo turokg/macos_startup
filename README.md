@@ -1,1 +1,5 @@
-# macos_startup
+guide for easy setup fresh macos 
+
+run 
+
+
